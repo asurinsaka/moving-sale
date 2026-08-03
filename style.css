@@ -36,6 +36,22 @@ ul.specs li{margin:2px 0}
 .soldribbon{position:absolute;top:10px;left:10px;z-index:1;background:#d64524;color:#fff;font-size:.72rem;
       font-weight:800;padding:3px 10px;border-radius:999px;letter-spacing:.04em}
 .price s{color:var(--muted);font-weight:600}
+a.card{text-decoration:none;color:inherit}
+a.card:active{transform:scale(.99)}
+.more{margin-top:8px;color:var(--accent);font-weight:700;font-size:.82rem}
+/* detail page */
+.detailcard{max-width:640px;margin:0 auto;background:var(--card);border:1px solid var(--line);
+      border-radius:16px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.ph.big{aspect-ratio:auto;max-height:62vh;width:100%;object-fit:contain;background:#f0f3f6}
+.ph.placeholder.big{aspect-ratio:16/10}
+.dbody{padding:16px 18px 22px}
+.dname{font-weight:800;font-size:1.35rem;line-height:1.25}
+.den{color:var(--muted);font-size:.95rem;margin-bottom:4px}
+.cond{margin:8px 0;font-size:.9rem;color:#3a4552}
+.desc{color:#3a4552;font-size:.92rem;margin-top:10px}
+.detailcard .price{font-size:1.5rem}
+.buybtn{display:block;text-align:center;margin-top:16px;background:var(--accent);color:#fff;
+      font-weight:800;padding:12px;border-radius:12px;text-decoration:none}
 
 /* hub category cards */
 .cats{display:grid;grid-template-columns:1fr 1fr;gap:14px;max-width:760px;margin:0 auto;padding:16px 14px}

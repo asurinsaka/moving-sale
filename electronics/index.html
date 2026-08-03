@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>电子产品 Electronics · 搬家甩卖 Moving Sale</title>
-<meta name="description" content="台式电脑、4K显示器、显卡、水冷等电脑配件甩卖。芝加哥海德公园自取，现金/Zelle。Gaming desktops, 4K monitors, GPUs & PC parts — Hyde Park, Chicago pickup.">
+<meta name="description" content="台式电脑、4K显示器、显卡、水冷等电脑配件甩卖。芝加哥海德公园自取。Gaming desktops, 4K monitors, GPUs & PC parts — Hyde Park, Chicago pickup.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="电子产品 Electronics · 搬家甩卖">
 <meta property="og:description" content="游戏主机 / 4K显示器 / 显卡 / 配件 · Hyde Park 自取 · Gaming PCs, 4K monitors & parts.">
@@ -26,60 +26,23 @@
 </header>
 
 <div class="how">
-  <b>怎么买 · How to buy：</b> 看中哪件，群里私信我或加微信 <b>asurin1</b>。价格可小刀，多件打包更优惠，均可当面测试。<br>
-  <span style="opacity:.8">DM me in the group or add WeChat <b>asurin1</b>. Prices OBO; bundle discounts; test before you buy.</span>
+  <b>怎么买 · How to buy：</b> 点开商品看详情，看中了群里私信我或加微信 <b>asurin1</b>。价格可小刀，多件打包更优惠。<br>
+  <span style="opacity:.8">Tap an item for details; DM me in the group or add WeChat <b>asurin1</b>. Prices OBO; bundle discounts.</span>
 </div>
 
 <main id="app"></main>
 
-<div class="contact">
+<div class="contact" id="buy">
   <h2>联系方式 · Contact</h2>
   <div class="wx">微信 WeChat：<span id="wx">asurin1</span></div>
-  <p>📍 Hyde Park, Chicago · 💵 现金/Cash or Zelle · 大件不邮寄，配件可邮寄(买家付运费)</p>
+  <p>📍 Hyde Park, Chicago · 💵 现金/Cash or Zelle · 大件自取，配件可邮寄(买家付运费)</p>
   <p style="opacity:.8">Large items local pickup only; small parts can ship at buyer's cost.</p>
 </div>
 
 <footer>更新 Updated: 2026-08-03 · <a href="../">← 全部分类 All categories</a></footer>
 
-<script>
-window.CATS = [["desk","台式电脑","Desktops"],["mon","显示器","Monitors"],["part","配件 / 外设","Parts & Accessories"]];
-window.ITEMS = [
- {cat:"desk", zh:"惠普 OMEN 30L 游戏主机", en:"HP OMEN 30L Gaming PC", price:850, photo:"",
-  specs:["Ryzen 7 5800X · RTX 3060 Ti 8G","16G 内存 · 1TB SSD","水冷 Liquid-cooled · Win 11"],
-  note:"主机+键鼠，可加显示器 / tower + KB/mouse (monitor available)"},
- {cat:"desk", zh:"Skytech Chronos 游戏主机", en:"Skytech Chronos Gaming PC", price:950, photo:"",
-  specs:["Ryzen 7 3700X · RTX 3070 8G","16G · 1TB SSD · Win 11"],
-  note:"主机+键鼠，可加显示器 / tower + KB/mouse (monitor available)"},
- {cat:"desk", zh:"联想 Legion Tower 5i 游戏主机", en:"Lenovo Legion Tower 5i", price:950, photo:"",
-  specs:["i7-10700 · RTX 3070 8G","16G · 1TB SSD · WiFi6 · Win 11"],
-  note:"主机+键鼠，可加显示器 / tower + KB/mouse (monitor available)"},
- {cat:"desk", zh:"戴尔 Dell G5 5000 主机", en:"Dell G5 5000", price:500, photo:"images/g5.jpg",
-  specs:["i3-10100 · RX 5700 XT 8G","16G · 1TB · Win 11"],
-  note:"含 27寸显示器 + 键鼠 / incl. 27\" monitor + KB/mouse"},
- {cat:"desk", zh:"惠普 Pavilion 主机", en:"HP Pavilion Gaming", price:300, photo:"images/hp1.jpg",
-  specs:["Ryzen 3 5300G 核显 / iGPU","8G · SSD + HDD · Win 11"],
-  note:"含 显示器 + 键鼠 / incl. monitor + KB/mouse"},
-
- {cat:"mon", zh:"联想 L28u-30 显示器", en:"Lenovo L28u-30 Monitor", price:160, photo:"",
-  specs:["28寸 4K UHD IPS","3840×2160 · HDR10 · FreeSync"]},
- {cat:"mon", zh:"LG 4K HDR 显示器 (2024)", en:"LG 4K HDR Monitor (2024)", price:250, photo:"",
-  specs:["4K UHD 3840×2160 · HDR","2024年 · 型号确认中 model TBC (27–32\")"]},
- {cat:"mon", zh:"华硕 ASUS VE228 显示器", en:"ASUS VE228 Monitor", price:35, photo:"",
-  specs:["21.5寸 1080p","1920×1080 · 适合副屏 / great 2nd screen"]},
-
- {cat:"part", zh:"Arctic 一体式水冷 280 (全新)", en:"Arctic Liquid Freezer II 280 (new)", price:110, photo:"images/arctic.jpg",
-  specs:["280mm 一体式水冷 AIO","全新未使用 · 原盒 / new, open-box","送 MX-4 硅脂 / MX-4 incl."]},
- {cat:"part", zh:"微星 MSI GTX 970 显卡", en:"MSI GeForce GTX 970 GPU", price:55, photo:"",
-  specs:["4GB GDDR5 显卡","1080p 网游 / esports & retro builds"]},
- {cat:"part", zh:"Zalman CNPS8900 静音风冷 (全新)", en:"Zalman CNPS8900 Quiet cooler (open-box)", price:35, photo:"images/zalman.jpg",
-  specs:["静音风冷 low-profile air cooler","全新开盒 / open-box","仅老平台 old sockets only (非 AM4/AM5/1700)"]},
- {cat:"part", zh:"雷蛇 Razer Invicta 双面鼠标垫 (全新)", en:"Razer Invicta Mercury mouse mat (open-box)", price:50, photo:"",
-  specs:["双面硬质游戏鼠标垫 dual-sided hard mat","Speed + Control 双面 · 铝合金底 aluminum","全新未使用 / open-box, never used · Mercury 白"]},
-
- {cat:"part", sold:true, zh:"技嘉 B550M DS3H 主板", en:"Gigabyte B550M DS3H motherboard", price:50, photo:"",
-  specs:["AM4 / B550 Micro-ATX 主板","已于 2026-08 售出"]},
-];
-</script>
+<script>window.CATS = [["desk","台式电脑","Desktops"],["mon","显示器","Monitors"],["part","配件 / 外设","Parts & Accessories"]];</script>
+<script src="items.js"></script>
 <script src="../render.js"></script>
 </body>
 </html>
