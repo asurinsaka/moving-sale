@@ -26,13 +26,13 @@ window.ITEMS = [
   note:"含 显示器 + 键鼠 / incl. monitor + KB/mouse",
   detail:"入门整套，含显示器键鼠，适合办公/网课/轻度游戏。Complete budget setup incl. monitor + KB/mouse — office, school, light gaming."},
 
- {id:"lenovo-l28u-30", cat:"mon", zh:"联想 L28u-30 显示器", en:"Lenovo L28u-30 Monitor", price:160, photo:"",
+ {id:"lenovo-l28u-30", cat:"mon", zh:"联想 L28u-30 显示器", en:"Lenovo L28u-30 Monitor", price:160, photo:"images/lenovo-l28u.jpg",
   cond:"二手良好 / used, good", specs:["28寸 4K UHD IPS","3840×2160 · HDR10 · AMD FreeSync","2× HDMI + DisplayPort"],
   detail:"28寸4K IPS，色彩准，办公娱乐皆宜，无坏点。28\" 4K IPS, accurate colors, no dead pixels. Local pickup."},
  {id:"lg-4k-hdr", cat:"mon", zh:"LG 4K HDR 显示器 (2024)", en:"LG 4K HDR Monitor (2024)", price:250, photo:"",
   cond:"二手 近新 / used, like-new (2024)", specs:["4K UHD 3840×2160 · HDR","2024年款 · 近新","型号确认中 / model TBC (27–32\")"],
   detail:"2024年 LG 4K HDR 显示器，近新成色。三件里最新的显示器。2024 LG 4K HDR monitor, like-new — the newest of the monitors. (Exact model/size being confirmed.)"},
- {id:"asus-ve228", cat:"mon", zh:"华硕 ASUS VE228 显示器", en:"ASUS VE228 Monitor", price:35, photo:"",
+ {id:"asus-ve228", cat:"mon", zh:"华硕 ASUS VE228 显示器", en:"ASUS VE228 Monitor", price:35, photo:"images/asus-ve228.jpg",
   cond:"二手可用 / used, working", specs:["21.5寸 1080p","1920×1080","适合副屏/办公 / great 2nd screen"],
   detail:"便宜的1080p副屏，办公或第二屏很合适。Cheap 1080p — perfect as a second screen or office display."},
 
