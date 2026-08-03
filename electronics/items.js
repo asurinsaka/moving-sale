@@ -48,6 +48,10 @@ window.ITEMS = [
  {id:"razer-invicta", cat:"part", zh:"雷蛇 Razer Invicta 双面鼠标垫 (全新)", en:"Razer Invicta Mercury mouse mat (open-box)", price:50, photo:"",
   cond:"全新未使用 / open-box, never used", specs:["双面硬质游戏鼠标垫 dual-sided hard mat","Speed + Control 双面可选","铝合金底座 · Mercury 白","全新未使用，已停产 / open-box, discontinued"],
   detail:"雷蛇高端双面硬垫，一面Speed一面Control，铝合金底，已停产。全新未拆用。Razer's premium dual-sided (Speed/Control) hard mat, aluminum base — discontinued, open-box & never used. Can ship."},
+ {id:"logitech-k540-m510", cat:"part", zh:"罗技 K540 键盘 + M510 鼠标 (无线)", en:"Logitech K540 keyboard + M510 mouse (wireless)", price:20, photo:"",
+  cond:"二手 · 成色一般 / used, fair", specs:["无线键鼠套装 · wireless combo","Logitech Unifying 接收器 (一个可连两个)","功能正常，有使用痕迹 / works, cosmetic wear"],
+  note:"买任意主机可免费带走 / free with any PC purchase",
+  detail:"罗技无线套装：K540 键盘 + M510 鼠标。用过，成色一般但功能正常，含 Unifying 接收器。买主机免费送，也可单独带走。Logitech wireless K540 keyboard + M510 mouse — used, fair cosmetic condition, fully working, Unifying receiver included. Free with any PC purchase, or take them on their own."},
 
  {id:"b550m-ds3h", cat:"part", sold:true, zh:"技嘉 B550M DS3H 主板", en:"Gigabyte B550M DS3H motherboard", price:50, photo:"",
   cond:"已售出 / sold", specs:["AM4 / B550 Micro-ATX 主板","已于 2026-08 售出 / sold Aug 2026"]},
