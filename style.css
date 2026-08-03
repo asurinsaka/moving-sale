@@ -52,6 +52,10 @@ a.card:active{transform:scale(.99)}
 .detailcard .price{font-size:1.5rem}
 .buybtn{display:block;text-align:center;margin-top:16px;background:var(--accent);color:#fff;
       font-weight:800;padding:12px;border-radius:12px;text-decoration:none}
+.aichip{margin-top:6px;display:inline-block;font-size:.72rem;font-weight:700;color:#5b3ea8;
+      background:#efeaff;border:1px solid #ddd2fb;border-radius:999px;padding:2px 8px}
+.aibox{margin-top:12px;font-size:.86rem;color:#3a2f5c;background:#f2eeff;border:1px solid #ddd2fb;
+      border-radius:10px;padding:10px 12px;line-height:1.55}
 
 /* hub category cards */
 .cats{display:grid;grid-template-columns:1fr 1fr;gap:14px;max-width:760px;margin:0 auto;padding:16px 14px}

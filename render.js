@@ -24,6 +24,7 @@
       + '<div class="cardwrap">'+ribbon+ph(it,false)+'</div>'
       + '<div class="body"><div class="name">'+it.zh+'<span class="en">'+it.en+'</span></div>'
       + priceHtml(it) + '<ul class="specs">'+specs+'</ul>'
+      + (it.ai ? '<div class="aichip">🤖 可跑本地AI · Local-AI ready</div>' : '')
       + '<div class="more">查看详情 Details →</div></div></a>';
   }
   function detailView(it){
@@ -35,7 +36,8 @@
     var btn  = it.sold ? '' : '<a class="buybtn" href="#buy">我想要这个 / I want this →</a>';
     return '<div class="detailcard"><div class="cardwrap">'+ribbon+ph(it,true)+'</div>'
       + '<div class="dbody"><div class="dname">'+it.zh+'</div><div class="den">'+it.en+'</div>'
-      + priceHtml(it) + cond + '<ul class="specs">'+specs+'</ul>' + note + desc + btn + '</div></div>';
+      + priceHtml(it) + cond + '<ul class="specs">'+specs+'</ul>' + note
+      + (it.ai ? '<div class="aibox">'+it.ai+'</div>' : '') + desc + btn + '</div></div>';
   }
 
   // Listing
