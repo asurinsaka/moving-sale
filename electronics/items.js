@@ -53,6 +53,6 @@ window.ITEMS = [
   note:"买任意主机可免费带走 / free with any PC purchase",
   detail:"罗技无线套装：K540 键盘 + M510 鼠标。用过，成色一般但功能正常，含 Unifying 接收器。买主机免费送，也可单独带走。Logitech wireless K540 keyboard + M510 mouse — used, fair cosmetic condition, fully working, Unifying receiver included. Free with any PC purchase, or take them on their own."},
 
- {id:"b550m-ds3h", cat:"part", sold:true, zh:"技嘉 B550M DS3H 主板", en:"Gigabyte B550M DS3H motherboard", price:50, photo:"",
+ {id:"b550m-ds3h", cat:"part", sold:true, zh:"技嘉 B550M DS3H 主板", en:"Gigabyte B550M DS3H motherboard", price:50, photo:"images/b550m-ds3h.jpg",
   cond:"已售出 / sold", specs:["AM4 / B550 Micro-ATX 主板","已于 2026-08 售出 / sold Aug 2026"]},
 ];
