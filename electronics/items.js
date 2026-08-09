@@ -34,9 +34,9 @@ window.ITEMS = [
  {id:"lenovo-l28u-30", cat:"mon", zh:"联想 L28u-30 显示器", en:"Lenovo L28u-30 Monitor", price:160, photo:"images/lenovo-l28u.jpg",
   cond:"二手良好 / used, good", specs:["28寸 4K UHD IPS","3840×2160 · HDR10 · AMD FreeSync","2× HDMI + DisplayPort"],
   detail:"28寸4K IPS，色彩准，办公娱乐皆宜，无坏点。28\" 4K IPS, accurate colors, no dead pixels. Local pickup."},
- {id:"lg-4k-hdr", cat:"mon", zh:"LG 4K HDR 显示器 (2024)", en:"LG 4K HDR Monitor (2024)", price:250, photo:"",
-  cond:"二手 近新 / used, like-new (2024)", specs:["4K UHD 3840×2160 · HDR","2024年款 · 近新","型号确认中 / model TBC (27–32\")"],
-  detail:"2024年 LG 4K HDR 显示器，近新成色。三件里最新的显示器。2024 LG 4K HDR monitor, like-new — the newest of the monitors. (Exact model/size being confirmed.)"},
+ {id:"lg-4k-hdr", cat:"mon", zh:"LG 32UN650K-W 32寸 4K 显示器", en:"LG 32UN650K-W 32\" 4K Monitor", price:250, photo:"",
+  cond:"二手 近新 · 2024年9月产 / used, like-new (mfg 09/2024)", specs:["32寸 4K UHD 3840×2160 IPS · 60Hz","HDR10 · DCI-P3 95% · AMD FreeSync","内置音箱 · 可升降底座 · 含19V电源"],
+  detail:"LG 32UN650K-W，32寸(31.5) 4K UHD IPS 显示器，HDR10 + 95% DCI-P3 + AMD FreeSync，内置 MaxxAudio 音箱，可升降三边微边框底座。2024年9月生产，近新成色，含原装 19V 电源适配器。海德公园自取。LG 32UN650K-W — 32\" (31.5) 4K UHD IPS, HDR10, 95% DCI-P3, AMD FreeSync, built-in speakers, height-adjustable borderless stand. Manufactured 09/2024, like-new; includes the original 19V power adapter. Local pickup."},
 
  {id:"rx6700xt", cat:"part", zh:"AMD RX 6700 XT 12G 显卡", en:"AMD Radeon RX 6700 XT 12GB GPU", price:300, photo:"",
   cond:"二手良好 / used, good", specs:["12GB GDDR6 · PCIe 4.0","2K 高刷游戏利器 / strong 1440p","需 8+6pin 供电 · 测试无花屏"],
