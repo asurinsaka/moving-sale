@@ -38,7 +38,7 @@ window.ITEMS = [
   cond:"二手 近新 · 2024年9月产 / used, like-new (mfg 09/2024)", specs:["32寸 4K UHD 3840×2160 IPS · 60Hz","HDR10 · DCI-P3 95% · AMD FreeSync","内置音箱 · 可升降底座 · 含19V电源"],
   detail:"LG 32UN650K-W，32寸(31.5) 4K UHD IPS 显示器，HDR10 + 95% DCI-P3 + AMD FreeSync，内置 MaxxAudio 音箱，可升降三边微边框底座。2024年9月生产，近新成色，含原装 19V 电源适配器。海德公园自取。LG 32UN650K-W — 32\" (31.5) 4K UHD IPS, HDR10, 95% DCI-P3, AMD FreeSync, built-in speakers, height-adjustable borderless stand. Manufactured 09/2024, like-new; includes the original 19V power adapter. Local pickup."},
 
- {id:"rx6700xt", cat:"part", zh:"AMD RX 6700 XT 12G 显卡", en:"AMD Radeon RX 6700 XT 12GB GPU", price:300, photo:"",
+ {id:"rx6700xt", cat:"part", zh:"AMD RX 6700 XT 12G 显卡", en:"AMD Radeon RX 6700 XT 12GB GPU", price:300, photo:"images/rx6700xt.jpg",
   cond:"二手良好 / used, good", specs:["12GB GDDR6 · PCIe 4.0","2K 高刷游戏利器 / strong 1440p","需 8+6pin 供电 · 测试无花屏"],
   detail:"RX 6700 XT 12G，2K 游戏利器，大显存。成色好，测试无花屏。可邮寄(买家付运费)。RX 6700 XT 12GB — excellent 1440p card with lots of VRAM, tested with no artifacts. Can ship at buyer's cost.",
   ai:"🤖 <b>本地 AI / Local AI：</b>12G 显存，用 <b>Ollama (Vulkan)</b> 可跑 7–13B 模型（AMD 卡，无 CUDA）。12GB — runs 7–13B LLMs via Ollama/Vulkan (AMD, no CUDA)."},
@@ -56,6 +56,11 @@ window.ITEMS = [
   note:"买任意主机可免费带走 / free with any PC purchase",
   detail:"罗技无线套装：K540 键盘 + M510 鼠标。用过，成色一般但功能正常，含 Unifying 接收器。买主机免费送，也可单独带走。Logitech wireless K540 keyboard + M510 mouse — used, fair cosmetic condition, fully working, Unifying receiver included. Free with any PC purchase, or take them on their own."},
 
+ {id:"b550m-ds3h-new", cat:"part", zh:"技嘉 B550M DS3H 主板 (全新开盒)", en:"Gigabyte B550M DS3H (open-box, new)", price:70, photo:"images/b550m-ds3h-openbox.jpg",
+  cond:"全新开盒 · 从未使用 / open-box, never used", specs:["AM4 / B550 Micro-ATX 主板","支持 锐龙 3000/5000 · PCIe 4.0","4×DDR4 · 2×M.2 · 4×SATA","全新未用 · 含原盒/挡板/线材 / complete w/ box"],
+  note:"全新开盒，可小刀 / open-box, OBO",
+  detail:"技嘉 B550M DS3H，全新开盒从未使用，含原盒、挡板、SATA线、说明书。AM4(锐龙3000/5000)，PCIe 4.0，2×M.2。可邮寄(买家付运费)。Gigabyte B550M DS3H — open box, never used, complete with box / I-O shield / SATA cables / manual. AM4 (Ryzen 3000/5000), PCIe 4.0, 2× M.2. Can ship.",
+  ai:""},
  {id:"b550m-ds3h", cat:"part", sold:true, zh:"技嘉 B550M DS3H 主板", en:"Gigabyte B550M DS3H motherboard", price:50, photo:"images/b550m-ds3h.jpg",
   cond:"已售出 / sold", specs:["AM4 / B550 Micro-ATX 主板","已于 2026-08 售出 / sold Aug 2026"]},
 ];
