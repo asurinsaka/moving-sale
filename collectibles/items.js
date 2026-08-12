@@ -1,5 +1,10 @@
 // Collectibles & misc listing data (index.html) + detail pages (item.html).
 window.ITEMS = [
+ {id:"canon-t6i-kit", cat:"misc", zh:"佳能 EOS Rebel T6i 单反套机 (机身 + 3 镜头)", en:"Canon EOS Rebel T6i DSLR kit (body + 3 lenses)", price:550, photo:"images/canon-t6i-kit.jpg",
+  cond:"二手良好 · 测试可用 / used, tested working",
+  specs:["24MP APS-C 单反 · WiFi · 翻转触屏 / DSLR, Wi-Fi, flip screen","三镜头: EF-S 18-135 变焦 + EF 50/1.8 定焦 + EF-S 10-18 超广角","含相机包 · 2 块电池 + 充电器 / bag + 2 batteries + charger","整套出，适合入门 / complete beginner kit"],
+  note:"整套出 · 海德公园自取 / full kit, local pickup",
+  detail:"佳能 EOS Rebel T6i 单反整套：24MP APS-C 机身（WiFi、翻转触摸屏）+ 三支镜头（18-135mm 变焦、50mm f/1.8 人像定焦、10-18mm 超广角）+ 相机包 + 2 块电池和充电器。成色好，测试可用，适合入门/进阶。海德公园自取，可当面试机。Complete Canon EOS Rebel T6i DSLR kit — 24MP APS-C body (Wi-Fi, flip touchscreen) + three lenses (18-135mm zoom, 50mm f/1.8 portrait prime, 10-18mm ultra-wide) + camera bag + 2 batteries & charger. Good condition, tested working — great for someone getting into photography. Local pickup in Hyde Park; test before you buy."},
  {id:"lego-orchid-10311", cat:"misc", zh:"乐高兰花 (10311) 已拼装", en:"LEGO Icons Orchid (10311), built", price:30, photo:"images/lego-orchid-10311.jpg",
   cond:"已拼装 / 展示成色 built, display condition",
   specs:["乐高植物系列 · 608 颗粒 / Botanical, 608 pcs","橙色定制花 (原版为粉色) / custom ORANGE blooms","免浇水免打理 · 永不凋谢 / no water, no upkeep","约 30cm 高 ~12\" tall"],
