@@ -56,8 +56,8 @@ window.ITEMS = [
   note:"买任意主机可免费带走 / free with any PC purchase",
   detail:"罗技无线套装：K540 键盘 + M510 鼠标。用过，成色一般但功能正常，含 Unifying 接收器。买主机免费送，也可单独带走。Logitech wireless K540 keyboard + M510 mouse — used, fair cosmetic condition, fully working, Unifying receiver included. Free with any PC purchase, or take them on their own."},
 
- {id:"seagate-expansion-14tb", cat:"part", zh:"希捷 Expansion 14TB 桌面外置硬盘", en:"Seagate Expansion 14TB External HDD", price:160, photo:"images/seagate-14tb.jpg",
-  cond:"二手 · 测试可用 / used, tested working", specs:["14TB · USB 3.0 · 3.5\" 桌面外置","CMR 氦气盘 · 可拆盘 / CMR helium, shuckable","含 12V 电源 + USB 线 / PSU + cable incl.","已测试读写无错误 · USB 外壳不显示 SMART / tested OK; no SMART over USB"],
+ {id:"seagate-expansion-14tb", cat:"part", sold:true, zh:"希捷 Expansion 14TB 桌面外置硬盘", en:"Seagate Expansion 14TB External HDD", price:160, photo:"images/seagate-14tb.jpg",
+  cond:"已售出 / sold", specs:["14TB · USB 3.0 · 3.5\" 桌面外置","已于 2026-08 售出 / sold Aug 2026"],
   note:"可邮寄(买家付运费) / can ship",
   detail:"希捷 Expansion 14TB 桌面外置硬盘 (STEB14000402)，USB 3.0，含原装 12V 电源和数据线。已测试可正常读写、无错误；注意此 USB 外置盒不支持读取 SMART（无法显示通电小时数），可当面测试。适合备份/媒体库/NAS/拆盘。Seagate Expansion 14TB external (STEB14000402), USB 3.0, includes 12V power adapter + cable. Tested working — mounts and reads/writes with no errors; note this USB enclosure doesn't expose SMART (so no power-on-hours readout). Test in person. Great for backups, a media library, NAS, or shucking. Can ship at buyer's cost.",
   ai:""},
