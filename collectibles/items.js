@@ -42,7 +42,7 @@ window.ITEMS = [
   cond:"二手良好 · 功能正常 / used, good — works", specs:["18寸落地扇 · 高度可调 / adjustable height","可摇头 · 风头可俯仰 · 多档风速","风力足，卧室/客厅/书房 / strong airflow"],
   note:"海德公园自取 · 现金/Zelle / Hyde Park, cash/Zelle",
   detail:"Lasko 18寸落地电风扇(黑色)，高度可调、可摇头、风头可俯仰、多档风速。风力足，适合卧室/客厅/书房。功能正常，二手成色好。海德公园自取。Lasko 18\" oscillating pedestal fan (black) — adjustable height, oscillating, tilt-adjustable head, multiple speeds. Strong airflow, great for a bedroom, living room, or office. Works well, used but good. Local pickup in Hyde Park."},
- {id:"plastic-3drawer-organizer", cat:"misc", zh:"三抽塑料收纳架 (白色)", en:"3-Drawer Plastic Storage Organizer (White)", price:15, photo:"images/plastic-3drawer-organizer.jpg",
+ {id:"plastic-3drawer-organizer", cat:"misc", sold:true, zh:"三抽塑料收纳架 (白色)", en:"3-Drawer Plastic Storage Organizer (White)", price:15, photo:"images/plastic-3drawer-organizer.jpg",
   cond:"二手良好 / used, good", specs:["白色钢架 + 3个可拆塑料抽屉 / steel frame + 3 plastic drawers","衣柜/婴儿房/宿舍/浴室收纳 / closet, nursery, dorm, bath","轻便可放进小车 / lightweight, fits a car"],
   note:"海德公园自取 · 现金/Zelle / Hyde Park, cash/Zelle",
   detail:"白色三抽塑料收纳架，钢架结构，抽屉可整体抽出/取下。适合衣柜/婴儿房/儿童房/宿舍/浴室/杂物收纳。轻便好搬，二手成色好。海德公园自取，可放进小车。3-drawer plastic storage tower on a sturdy white steel frame — drawers pull out fully and are removable. Great for a closet, nursery, kids' room, dorm, bathroom, or craft/office storage. Lightweight, used but good. Local pickup in Hyde Park; fits in a car."},
