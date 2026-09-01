@@ -50,7 +50,7 @@ window.ITEMS = [
   cond:"二手良好 / used, good", specs:["白色钢架 + 3个可拆塑料抽屉 / steel frame + 3 plastic drawers","衣柜/婴儿房/宿舍/浴室收纳 / closet, nursery, dorm, bath","轻便可放进小车 / lightweight, fits a car"],
   note:"海德公园自取 · 现金/Zelle / Hyde Park, cash/Zelle",
   detail:"白色三抽塑料收纳架，钢架结构，抽屉可整体抽出/取下。适合衣柜/婴儿房/儿童房/宿舍/浴室/杂物收纳。轻便好搬，二手成色好。海德公园自取，可放进小车。3-drawer plastic storage tower on a sturdy white steel frame — drawers pull out fully and are removable. Great for a closet, nursery, kids' room, dorm, bathroom, or craft/office storage. Lightweight, used but good. Local pickup in Hyde Park; fits in a car."},
- {id:"coleman-sundome-4", cat:"misc", zh:"Coleman Sundome 4人帐篷", en:"Coleman Sundome 4-Person Tent", price:40, photo:"images/coleman-sundome-4.jpg",
+ {id:"coleman-sundome-4", cat:"misc", sold:true, zh:"Coleman Sundome 4人帐篷", en:"Coleman Sundome 4-Person Tent", price:40, photo:"images/coleman-sundome-4.jpg",
   cond:"二手 近新 · 仅用过几次 · 无缺件 / like-new — used a couple times, complete", specs:["4人圆顶帐篷 · 约9×7ft · 含收纳袋 / dome, w/ bag","WeatherTec 防水底 + 大窗通风口 / welded floor, vents","仅用过几次，零件齐全 / used ~2×, no missing parts"],
   note:"海德公园自取 或 邮寄(买家付运费) / local or ship",
   detail:"Coleman Sundome 4人圆顶帐篷，仅用过几次，近新，零件齐全，含原装收纳袋。约9×7英尺，中心高约1.5米，可睡4人或放一张Queen气垫床。WeatherTec 系统(焊接防水底+防漏缝线)，大窗+地面通风口，带电源线口(E-Port)。适合露营/家庭出游/节庆。海德公园自取，也可邮寄(买家付运费)。Coleman Sundome 4-person dome tent — used only a couple times, like-new, no missing parts, includes the original carry bag. ~9×7 ft, ~4'11\" center height, sleeps 4 or fits a queen airbed. WeatherTec system (welded floor + inverted seams), large windows + ground vent, E-Port for a power cord. Local pickup in Hyde Park or ship at buyer's cost."},
