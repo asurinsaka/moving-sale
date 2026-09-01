@@ -1,6 +1,6 @@
 // Collectibles & misc listing data (index.html) + detail pages (item.html).
 window.ITEMS = [
- {id:"canon-t6i-kit", cat:"misc", zh:"佳能 EOS Rebel T6i 单反套机 (机身 + 3 镜头)", en:"Canon EOS Rebel T6i DSLR kit (body + 3 lenses)", price:550, photo:"images/canon-t6i-kit.jpg",
+ {id:"canon-t6i-kit", cat:"misc", sold:true, zh:"佳能 EOS Rebel T6i 单反套机 (机身 + 3 镜头)", en:"Canon EOS Rebel T6i DSLR kit (body + 3 lenses)", price:550, photo:"images/canon-t6i-kit.jpg",
   cond:"二手有使用痕迹 · 内置闪光灯不稳定 / used, normal wear (built-in flash unreliable)",
   specs:["24MP APS-C 单反 · WiFi · 翻转触屏 / DSLR, Wi-Fi, flip screen","三镜头: EF-S 18-135 变焦 + EF 50/1.8 定焦 + EF-S 10-18 超广角","含 Lowepro Fastpack 250 双肩包 · 2 块电池 + 充电器 / Lowepro backpack + 2 batteries + charger","整套出，适合入门 / complete beginner kit"],
   note:"整套出 · 海德公园自取 / full kit, local pickup",
