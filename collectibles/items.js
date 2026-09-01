@@ -42,7 +42,7 @@ window.ITEMS = [
   cond:"二手良好 / used, good", specs:["Spa Sensations/Zinus 钢制床架 · Queen","免弹簧盒，床垫直接放 · 可折叠平放","床下储物空间 · 结实 / storage underneath"],
   note:"海德公园自取 · 折叠可放进小车 / Hyde Park; folds flat, fits a car",
   detail:"Spa Sensations(Zinus)钢制平台床架，Queen尺寸。床垫直接放上即可，免弹簧盒。可折叠平放，方便搬运/存放，床下有储物空间。结实耐用，二手成色好。折叠后能放进普通轿车，自取方便。海德公园自取。Steel platform bed frame (Spa Sensations/Zinus), Queen. Mattress sits directly on it — no box spring needed. Folds flat for easy transport/storage, with storage space underneath. Sturdy, used but good. Folds flat → fits in a regular car. Local pickup in Hyde Park."},
- {id:"lasko-pedestal-fan", cat:"misc", zh:"Lasko 18寸 落地扇 (黑色)", en:"Lasko 18\" Oscillating Pedestal Fan (Black)", price:20, photo:"images/lasko-pedestal-fan.jpg",
+ {id:"lasko-pedestal-fan", cat:"misc", sold:true, zh:"Lasko 18寸 落地扇 (黑色)", en:"Lasko 18\" Oscillating Pedestal Fan (Black)", price:20, photo:"images/lasko-pedestal-fan.jpg",
   cond:"二手良好 · 功能正常 / used, good — works", specs:["18寸落地扇 · 高度可调 / adjustable height","可摇头 · 风头可俯仰 · 多档风速","风力足，卧室/客厅/书房 / strong airflow"],
   note:"海德公园自取 · 现金/Zelle / Hyde Park, cash/Zelle",
   detail:"Lasko 18寸落地电风扇(黑色)，高度可调、可摇头、风头可俯仰、多档风速。风力足，适合卧室/客厅/书房。功能正常，二手成色好。海德公园自取。Lasko 18\" oscillating pedestal fan (black) — adjustable height, oscillating, tilt-adjustable head, multiple speeds. Strong airflow, great for a bedroom, living room, or office. Works well, used but good. Local pickup in Hyde Park."},
