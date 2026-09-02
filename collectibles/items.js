@@ -22,7 +22,7 @@ window.ITEMS = [
   cond:"二手良好 · 右上角轻微泡水 / used — minor water damage top-right corner", specs:["三抽屉 · 桦木色框 + 白面 / 3 drawers","28×16×27 英寸 (宽×深×高) / 28\"W x 16\"D x 27\"H","整体出(刨花板不能拆) / sold assembled"],
   note:"海德公园自取 · 现金/Zelle / local pickup, cash/Zelle",
   detail:"三斗柜，桦木色框 + 白抽屉面，结实、抽拉顺畅。⚠️ 桌面右上角有一点轻微泡水鼓起(仅外观，见图)，其余完好、功能正常。整体出(刨花板不能拆)，海德公园自取。3-drawer dresser — birch frame + white fronts, sturdy, smooth drawers. Minor water swelling on the top-right corner of the top (cosmetic, shown in photos); otherwise good. Sold assembled; local pickup in Hyde Park."},
- {id:"white-4drawer-dresser", cat:"misc", zh:"白色四抽斗柜", en:"4-Drawer Chest of Drawers (white)", price:40, photo:"images/white-4drawer-dresser.jpg",
+ {id:"white-4drawer-dresser", cat:"misc", sold:true, zh:"白色四抽斗柜", en:"4-Drawer Chest of Drawers (white)", price:40, photo:"images/white-4drawer-dresser.jpg",
   cond:"二手良好 / used, good", specs:["四抽屉 · 白色 · 圆把手 / 4 drawers, white, round knobs","29×16×42英寸 (宽×深×高) / 29\"W x 16\"D x 42\"H","整体出(刨花板不拆装) / sold assembled","适合卧室/婴儿房/儿童房/宿舍 / bedroom, nursery, kids, dorm"],
   note:"海德公园自取 · 现金/Zelle · 需SUV+帮手 / local pickup, cash/Zelle, needs SUV+helper",
   detail:"白色四抽屉斗柜 / 五斗橱，结实、抽拉顺畅，白色圆把手。尺寸约 29×16×42 英寸 (宽×深×高)。适合卧室、婴儿房、儿童房或宿舍收纳。二手成色好、无烟家庭。整体出(刨花板不拆装)。海德公园自取，需SUV/两厢车+帮手搬运。White 4-drawer chest of drawers / dresser — sturdy, smooth-sliding drawers, white finish with round knobs. Dimensions: 29\"W x 16\"D x 42\"H. Great for a bedroom, nursery, kids' room, or dorm. Good used condition, non-smoking home. Sold assembled. Local pickup in Hyde Park; bring an SUV/hatchback + a helper."},
