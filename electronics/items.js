@@ -38,7 +38,7 @@ window.ITEMS = [
   cond:"二手 近新 · 2024年9月产 / used, like-new (mfg 09/2024)", specs:["32寸 4K UHD 3840×2160 IPS · 60Hz","HDR10 · DCI-P3 95% · AMD FreeSync","内置音箱 · 可升降底座 · 含19V电源"],
   detail:"LG 32UN650K-W，32寸(31.5) 4K UHD IPS 显示器，HDR10 + 95% DCI-P3 + AMD FreeSync，内置 MaxxAudio 音箱，可升降三边微边框底座。2024年9月生产，近新成色，含原装 19V 电源适配器。海德公园自取。LG 32UN650K-W — 32\" (31.5) 4K UHD IPS, HDR10, 95% DCI-P3, AMD FreeSync, built-in speakers, height-adjustable borderless stand. Manufactured 09/2024, like-new; includes the original 19V power adapter. Local pickup."},
 
- {id:"rx6700xt", cat:"part", zh:"AMD RX 6700 XT 12G 显卡", en:"AMD Radeon RX 6700 XT 12GB GPU", price:300, photo:"images/rx6700xt.jpg",
+ {id:"rx6700xt", cat:"part", sold:true, zh:"AMD RX 6700 XT 12G 显卡", en:"AMD Radeon RX 6700 XT 12GB GPU", price:300, photo:"images/rx6700xt.jpg",
   cond:"二手良好 / used, good", specs:["12GB GDDR6 · PCIe 4.0","2K 高刷游戏利器 / strong 1440p","需 8+6pin 供电 · 测试无花屏"],
   detail:"RX 6700 XT 12G，2K 游戏利器，大显存。成色好，测试无花屏。可邮寄(买家付运费)。RX 6700 XT 12GB — excellent 1440p card with lots of VRAM, tested with no artifacts. Can ship at buyer's cost.",
   ai:"🤖 <b>本地 AI / Local AI：</b>12G 显存，用 <b>Ollama (Vulkan)</b> 可跑 7–13B 模型（AMD 卡，无 CUDA）。12GB — runs 7–13B LLMs via Ollama/Vulkan (AMD, no CUDA)."},
