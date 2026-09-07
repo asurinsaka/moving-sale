@@ -26,7 +26,7 @@ window.ITEMS = [
   note:"含 显示器 + 键鼠 / incl. monitor + KB/mouse",
   detail:"iBUYPOWER 整套即插即用：六核 i7-8700 + GTX 970，含显示器和键鼠，全新装好 Windows 11。适合 1080p 游戏/办公/网课，可当面测试。Complete iBUYPOWER setup — 6-core i7-8700 + GTX 970, incl. monitor + keyboard/mouse, fresh Windows 11. Great for 1080p gaming, office, or school. Test before you buy.",
   ai:"🤖 <b>本地 AI / Local AI：</b>GTX 970 (4G) + CUDA，可本地跑 <b>3–7B 量化模型</b>（Llama&nbsp;3 / Qwen2.5，4-bit）。4GB — runs small 3–7B quantized LLMs locally (CUDA)."},
- {id:"hp-pavilion", cat:"desk", zh:"惠普 Pavilion 主机", en:"HP Pavilion Gaming", price:270, photo:"images/hp1.jpg",
+ {id:"hp-pavilion", cat:"desk", sold:true, zh:"惠普 Pavilion 主机", en:"HP Pavilion Gaming", price:270, photo:"images/hp1.jpg",
   cond:"二手良好 / used, good", specs:["Ryzen 3 5300G 核显 / iGPU","8G · SSD + HDD · Windows 11"],
   note:"含 显示器 + 键鼠 / incl. monitor + KB/mouse",
   detail:"入门整套，含显示器键鼠，适合办公/网课/轻度游戏。Complete budget setup incl. monitor + KB/mouse — office, school, light gaming."},
