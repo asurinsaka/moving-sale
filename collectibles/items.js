@@ -21,7 +21,7 @@ window.ITEMS = [
  {id:"clothes-drying-rack", cat:"misc", zh:"双翼可折叠不锈钢晾衣架", en:"Foldable Stainless Steel Clothes Drying Rack (winged)", price:20, photo:"images/clothes-drying-rack.jpg",
   cond:"二手良好 · 无锈无损 / used, good — no rust/damage",
   specs:["不锈钢框架 · 双翼可调 / stainless frame, 2 adjustable wings","可折叠收纳 / folds flat","室内/阳台适用 / indoor or balcony","新品约$40-60 / ~$40-60 new"],
-  note:"海德公园自取 · 现金/Venmo / local pickup, cash/Venmo",
+  note:"海德公园自取 · 现金/Zelle / local pickup, cash/Zelle",
   detail:"双翼可折叠不锈钢晾衣架（类似 SONGMICS/Bunji），两侧翼可调、晾晒面积大，可折叠收纳省空间。适合室内或阳台。二手成色好，无锈无损。海德公园自取。Foldable stainless steel clothes drying rack with two adjustable side wings — great for indoor or balcony use. Used but in good working condition, no rust or damage. Folds flat for easy storage. ~$40-60 new. Local pickup in Hyde Park."},
  {id:"hello-kitty-kids-nap-bed", cat:"misc", zh:"Hello Kitty 超大儿童懒人沙发床 (Costco)", en:"Hello Kitty Oversized Kids Floor Lounger (Costco)", price:30, photo:"images/hello-kitty-kids-nap-bed.jpg",
   cond:"二手良好 · 外套可拆洗 / used, good — washable cover",
