@@ -33,7 +33,7 @@ window.ITEMS = [
   specs:["AC1900 双频 Wi-Fi 5 / dual-band Wi-Fi 5","千兆 WAN + 千兆 LAN / gigabit WAN + LAN","支持易展 mesh 组网 / TP-Link mesh capable","⚠️ 中文固件 tplogin.cn / Chinese firmware UI"],
   note:"海德公园自取 · 现金/Zelle · 可邮寄 · 微信优先 / local pickup, cash/Zelle, ship OK — WeChat buyers",
   detail:"TP-LINK 普联 TL-WDR7661 千兆版，AC1900 双频（2.4G+5G），千兆 WAN + 千兆 LAN 口，支持易展 mesh 组网。已恢复出厂设置，管理页面 tplogin.cn（中文界面）。含电源适配器。功能正常，成色好。⚠️ 中国版中文固件，适合中文用户。海德公园自取，可邮寄。TP-Link TL-WDR7661 (千兆版) — AC1900 dual-band Wi-Fi 5, gigabit WAN + gigabit LAN, mesh-capable. Factory reset, includes power adapter. NOTE: China-market version — admin UI (tplogin.cn) is in Chinese; best for a Chinese-speaking household. Works fine. Local pickup in Hyde Park; can ship."},
- {id:"floor-lamp-3light", cat:"misc", zh:"三头落地灯 (黑色, 可调射灯)", en:"3-Light Floor Lamp (black, adjustable spotlights)", price:25, photo:"images/floor-lamp-3light.jpg",
+ {id:"floor-lamp-3light", cat:"misc", sold:true, zh:"三头落地灯 (黑色, 可调射灯)", en:"3-Light Floor Lamp (black, adjustable spotlights)", price:25, photo:"images/floor-lamp-3light.jpg",
   cond:"二手良好 · 三灯都亮 / used, good — all 3 lights work",
   specs:["三头可调方向射灯 / 3 adjustable spotlight heads","黑色 · 落地/树形 / black, tree-style floor lamp","测试正常(三灯都亮) / tested, all 3 light up","客厅/阅读角/氛围灯 / living room, reading, accent"],
   note:"海德公园自取 · 现金/Zelle · 可放进小车 / local pickup, cash/Zelle, fits a car",
