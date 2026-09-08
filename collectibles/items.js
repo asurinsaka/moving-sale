@@ -33,7 +33,7 @@ window.ITEMS = [
   specs:["Fluance SX6 书架音箱一对 / matched pair","8欧 · 89dB · 30-100W","实木贴皮 + 黑网罩 + 接线柱 / wood veneer, grilles, binding posts","立体声或影院环绕 / stereo or HT surrounds"],
   note:"海德公园自取 · 现金/Zelle · 可邮寄 / local pickup, cash/Zelle, can ship",
   detail:"Fluance SX6 书架音箱一对，8欧/89dB/30-100W。实木贴皮箱体 + 黑色可拆网罩 + 接线柱端子。做工比一般影院环绕好，适合立体声书架或家庭影院环绕。功能正常，无烟家庭。新品约 $150/对。海德公园自取，可邮寄（买家付运费）。Matched pair of Fluance SX6 bookshelf speakers — 8 ohm, 89 dB, 30-100W. Real wood-veneer cabinets, removable black grilles, proper binding posts. Nicer than typical HT surrounds — great as a stereo bookshelf pair or surrounds. Tested and working. ~$150/pair new. Local pickup in Hyde Park; can ship."},
- {id:"tplink-wdr7661-router", cat:"misc", zh:"TP-LINK TL-WDR7661 千兆版 AC1900 路由器", en:"TP-Link TL-WDR7661 AC1900 Gigabit Router (Chinese firmware)", price:25, photo:"images/tplink-wdr7661-router.jpg",
+ {id:"tplink-wdr7661-router", cat:"misc", sold:true, zh:"TP-LINK TL-WDR7661 千兆版 AC1900 路由器", en:"TP-Link TL-WDR7661 AC1900 Gigabit Router (Chinese firmware)", price:25, photo:"images/tplink-wdr7661-router.jpg",
   cond:"二手良好 · 已恢复出厂 / used, good — factory reset",
   specs:["AC1900 双频 Wi-Fi 5 / dual-band Wi-Fi 5","千兆 WAN + 千兆 LAN / gigabit WAN + LAN","支持易展 mesh 组网 / TP-Link mesh capable","⚠️ 中文固件 tplogin.cn / Chinese firmware UI"],
   note:"海德公园自取 · 现金/Zelle · 可邮寄 · 微信优先 / local pickup, cash/Zelle, ship OK — WeChat buyers",
