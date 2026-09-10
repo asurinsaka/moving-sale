@@ -64,7 +64,7 @@ window.ITEMS = [
   specs:["三丽鸥 Hello Kitty 记忆棉懒人床 / Sanrio HK memory-foam lounger","约47×64英寸 / ~47x64 in","绒布外套可拆卸机洗 / soft plush machine-washable cover","Costco #1796216 · 原价$56.72 / $56.72 new"],
   note:"海德公园自取 · 现金/Zelle / local pickup, cash/Zelle",
   detail:"三丽鸥 Hello Kitty 超大儿童记忆棉懒人床，Costco 购入 (Item 1796216，约47×64英寸)。大号 Hello Kitty 脸 + 彩虹图案，适合阅读角、地上懒人床、午睡或过夜。绒布外套可拆卸机洗（可洗好再给）。干净，成色好，无烟家庭。Costco 原价 $56.72。海德公园自取。Sanrio Hello Kitty oversized kids' floor lounger from Costco (Item 1796216, soft memory foam, ~47x64 in). Big Hello Kitty face with a pastel rainbow front — great for a reading nook, floor lounger, naps, or a sleepover bed. Soft plush machine-washable cover (can wash before pickup). Clean, good condition, non-smoking home. $56.72 new. Local pickup in Hyde Park."},
- {id:"iphone-xr", cat:"misc", zh:"iPhone XR 64GB 黑色 (按现状/碎屏)", en:"iPhone XR 64GB Black — as-is (cracked)", price:60, photo:"images/iphone-xr.jpg",
+ {id:"iphone-xr", cat:"misc", sold:true, zh:"iPhone XR 64GB 黑色 (按现状/碎屏)", en:"iPhone XR 64GB Black — as-is (cracked)", price:60, photo:"images/iphone-xr.jpg",
   cond:"按现状 · 前后玻璃碎+摄像头镜片碎+电池衰减 / as-is — cracked front & back glass, cracked camera lens, weak battery",
   specs:["64GB · 黑色 · 已解锁 · iOS 18.7.8(XR最高版本) / unlocked, iOS 18.7.8 (newest XR supports)","前屏玻璃碎但显示屏正常(碎玻璃非屏) / glass cracked, display/LCD works fine","后玻璃碎 + 背面有贴纸 / back glass cracked + stickers","后摄像头镜片碎，拍照模糊 / rear cam lens cracked"],
   note:"海德公园自取 · 现金 · 不邮寄 / local cash, no shipping · 出售前抹除+解锁激活锁",
