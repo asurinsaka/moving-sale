@@ -1,7 +1,7 @@
 // Shared item data for the electronics listing (index.html) + detail pages (item.html).
 // Each item needs a unique `id` (used in item.html?id=...). Edit prices / specs / sold here.
 window.ITEMS = [
- {id:"omen-30l", cat:"desk", zh:"惠普 OMEN 30L 游戏主机", en:"HP OMEN 30L Gaming PC", price:850, photo:"",
+ {id:"omen-30l", cat:"desk", zh:"惠普 OMEN 30L 游戏主机", en:"HP OMEN 30L Gaming PC", price:850, photo:"images/omen-30l.jpg",
   cond:"二手良好 / used, good", specs:["Ryzen 7 5800X · RTX 3060 Ti 8G","16G 内存 · 1TB NVMe SSD","一体式水冷 Liquid-cooled · 750W","Windows 11"],
   note:"主机+键鼠，可加显示器 / tower + KB/mouse (monitor available)",
   detail:"高性能游戏主机，八核 5800X + RTX 3060 Ti，静音水冷，1080p/2K 畅玩。可当面测试。A powerful, quiet liquid-cooled gaming PC — great for 1080p/1440p gaming and content creation. Test before you buy.",
@@ -38,6 +38,10 @@ window.ITEMS = [
   cond:"二手 近新 · 2024年9月产 / used, like-new (mfg 09/2024)", specs:["32寸 4K UHD 3840×2160 IPS · 60Hz","HDR10 · DCI-P3 95% · AMD FreeSync","内置音箱 · 可升降底座 · 含19V电源"],
   detail:"LG 32UN650K-W，32寸(31.5) 4K UHD IPS 显示器，HDR10 + 95% DCI-P3 + AMD FreeSync，内置 MaxxAudio 音箱，可升降三边微边框底座。2024年9月生产，近新成色，含原装 19V 电源适配器。海德公园自取。LG 32UN650K-W — 32\" (31.5) 4K UHD IPS, HDR10, 95% DCI-P3, AMD FreeSync, built-in speakers, height-adjustable borderless stand. Manufactured 09/2024, like-new; includes the original 19V power adapter. Local pickup."},
 
+ {id:"rtx-3060-ti", cat:"part", zh:"NVIDIA RTX 3060 Ti 8G 显卡", en:"NVIDIA GeForce RTX 3060 Ti 8GB GPU", price:280, photo:"images/rtx-3060-ti.jpg",
+  cond:"二手良好 / used, good", specs:["8GB GDDR6 · GA104 · PCIe 4.0","双风扇 · 需 8-pin 供电","1080p/2K 游戏强卡 · 测试无花屏"],
+  detail:"RTX 3060 Ti 8G，从自用 OMEN 30L 主机拆出，一直正常工作、温度良好（约66°C）。双风扇散热，1080p/1440p 游戏都很强。可当面测试或邮寄（买家付运费）。RTX 3060 Ti 8GB — pulled from my own working OMEN 30L (ran cool, ~66°C). Dual-fan, strong 1080p/1440p gaming. Tested, no artifacts. Local test or ship at buyer's cost.",
+  ai:"🤖 <b>本地 AI / Local AI：</b>8G 显存 + <b>CUDA</b>，可跑 7–8B 大模型（量化）+ Stable Diffusion/SDXL 出图。8GB + CUDA — runs 7–8B LLMs (4-bit) + Stable Diffusion/SDXL locally."},
  {id:"rx6700xt", cat:"part", sold:true, zh:"AMD RX 6700 XT 12G 显卡", en:"AMD Radeon RX 6700 XT 12GB GPU", price:300, photo:"images/rx6700xt.jpg",
   cond:"二手良好 / used, good", specs:["12GB GDDR6 · PCIe 4.0","2K 高刷游戏利器 / strong 1440p","需 8+6pin 供电 · 测试无花屏"],
   detail:"RX 6700 XT 12G，2K 游戏利器，大显存。成色好，测试无花屏。可邮寄(买家付运费)。RX 6700 XT 12GB — excellent 1440p card with lots of VRAM, tested with no artifacts. Can ship at buyer's cost.",
