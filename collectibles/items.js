@@ -80,7 +80,7 @@ window.ITEMS = [
   note:"海德公园自取 · 现金/Zelle / local pickup, cash/Zelle",
   detail:"黑色可折叠金属购物车,带轮子和拉手,可折叠收纳。适合买菜/洗衣房/赶集。⚠️底部缺两三根横条(见图),放个袋子/衬垫就好用,已按此定价。海德公园自取。Black folding metal shopping cart — wire basket on wheels with a handle, folds flat. Great for groceries, laundry, or market runs. NOTE: a couple bottom bars are missing (works fine with a bag/liner) — priced accordingly. Local pickup in Hyde Park.",
   },
- {id:"costco-sectional-sofa", cat:"misc", zh:"Costco 大号布艺组合沙发 + 脚凳 (L型)", en:"Costco Fabric Sectional Sofa + Ottoman (sofa + chaise)", price:185, photo:"images/costco-sectional-sofa.jpg",
+ {id:"costco-sectional-sofa", cat:"misc", zh:"Costco 大号布艺组合沙发 + 脚凳 (L型)", en:"Costco Fabric Sectional Sofa + Ottoman (sofa + chaise)", price:225, photo:"images/costco-sectional-sofa.jpg",
   cond:"二手 · 结实 · ⚠️坐垫有磨损/褪色 · 有猫家庭 / used — cushion wear/fading; pet home",
   specs:["L型组合: 主沙发 + 贵妃位 + 脚凳 / sofa + chaise + ottoman","浅灰布艺 · Costco 多年 / gray fabric, Costco","可拆分方便搬运 / comes apart into sections","⚠️坐垫磨损褪色 + 家里有猫 / cushion wear + cat home"],
   note:"海德公园自取 · 仅自取不送货 · 需皮卡+2-3人 / local pickup only, truck + 2-3 people",
