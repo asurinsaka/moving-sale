@@ -38,7 +38,7 @@ window.ITEMS = [
   specs:["中置声道 · 双 6.5寸低音 + 中音 + 高音","Infinity Reference 系列 (Harman)","清晰人声/对白 · 影院中置","原价 $499 (已停产) · 2020 购入"],
   note:"海德公园自取 · 现金/Zelle · 可邮寄(买家付运费) / local or ship at buyer cost",
   detail:"Infinity Reference RC263 中置音箱，双 6.5 寸低音 + 中音 + 高音。Harman 旗下 Infinity Reference 系列（高端线，原价 $499，已停产），人声/对白清晰，是家庭影院的核心。可与 Infinity Reference 系列前置/环绕音色匹配。功能正常，无烟家庭，2020 年购入约 $160。海德公园自取，可邮寄（买家付运费）。Infinity Reference RC263 center channel — dual 6.5\" woofers + midrange + tweeter. Harman's high-end Infinity Reference line ($499 retail, discontinued) — crisp, clear dialogue, the anchor of a home-theater setup. Timbre-matches the rest of the Infinity Reference line. Tested and working, adult-owned non-smoking home. ~$160 in 2020. Local pickup in Hyde Park; can ship at buyer's cost."},
- {id:"infinity-sub-r12", cat:"misc", zh:"Infinity Reference SUB R12 12寸有源低音炮", en:"Infinity Reference SUB R12 — 12\" Powered Subwoofer", price:120, photo:"images/infinity-sub-r12.jpg",
+ {id:"infinity-sub-r12", cat:"misc", sold:true, zh:"Infinity Reference SUB R12 12寸有源低音炮", en:"Infinity Reference SUB R12 — 12\" Powered Subwoofer", price:120, photo:"images/infinity-sub-r12.jpg",
   cond:"二手良好 / used, good — tested working",
   specs:["12寸有源低音炮 / 12\" powered sub · 300W","Infinity Reference 系列 (Harman)","电平/相位/分频/自动开机可调 / level·phase·crossover·auto-on","Line/LFE 输入 · 含电源线"],
   note:"海德公园自取 · 现金/Zelle · 较重仅自取 / local pickup only (heavy), cash/Zelle",
