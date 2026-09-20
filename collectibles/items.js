@@ -87,7 +87,7 @@ window.ITEMS = [
   },
  {id:"wood-desk", cat:"misc", zh:"实木风书桌 (深色 · 木框架 · 置物架)", en:"Wood Desk (rustic/industrial, all-wood, dark finish)", price:50, photo:"images/wood-desk.jpg",
   cond:"二手 · 结实 · ⚠️有双面胶残留(可清除)/边缘轻磨损 / used, solid — removable tape residue + light wear",
-  specs:["深色木纹桌面 + 木框架 / dark wood top + wood frame","下层置物架(黑网面) / lower shelf, mesh panel","工业/复古风 · 可当书桌/玄关桌 / desk, console or entry table","⚠️有双面胶残留(可清除)+ 轻磨损 / removable tape residue + light wear"],
+  specs:["深色木纹桌面 + 木框架 / dark wood top + wood frame","尺寸: 48×24×31 英寸 (W×D×H) / 48x24x31 in","下层置物架(黑网面) / lower shelf, mesh panel","工业/复古风 · 可当书桌/玄关桌 / desk, console or entry table","⚠️有双面胶残留(可清除)+ 轻磨损 / removable tape residue + light wear"],
   note:"海德公园自取 · 现金 · 小车可装 / local pickup, cash, fits a car",
   detail:"深色木纹桌面 + 木框架 + 下层置物架(黑色网面),工业/复古风,全实木风格。结实好用,可当书桌、玄关桌或边桌。⚠️如实说明:桌面和边缘有些双面胶残留(可用清洁剂清除)+ 轻微磨损(仅外观,见图),结构完好。搬家出,海德公园自取,小车可装。Rustic/industrial all-wood desk — dark finish with a wood frame and a lower shelf (mesh panel). Sturdy, roomy; works as a desk, console, or entry table. NOTE: some leftover double-sided-tape residue (comes off with adhesive remover) + light edge wear (cosmetic, shown in photos); structurally solid. Moving — local pickup in Hyde Park, fits in a car/SUV."},
  {id:"costco-sectional-sofa", cat:"misc", zh:"Costco 大号布艺组合沙发 + 脚凳 (L型)", en:"Costco Fabric Sectional Sofa + Ottoman (sofa + chaise)", price:185, photo:"images/costco-sectional-sofa.jpg",
