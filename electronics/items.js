@@ -56,7 +56,7 @@ window.ITEMS = [
   cond:"二手良好 / used, good", specs:["双臂 · 桌面夹式 · 可升降/俯仰/旋转","VESA 75/100 · 适合大多数显示器","含桌夹 / clamp incl. · 可邮寄 ships well"],
   note:"海德公园自取 或 邮寄(买家付运费) / local or ship",
   detail:"双屏显示器桌面夹式支架，一个桌夹装两个显示器，各自可升降/俯仰/旋转，省桌面空间。标准 VESA 75x75/100x100，适合大多数显示器。含桌夹，做工结实，打包小巧可邮寄。Articulating DUAL-monitor desk-clamp arm — mount two monitors, each adjustable (height/tilt/swivel). VESA 75/100, fits most monitors. Sturdy metal, clamp included, ships well. Local pickup or ship at buyer's cost."},
- {id:"amazon-notebook-arm-tray", cat:"part", zh:"Amazon Basics 笔记本支架托盘 (全新未拆封)", en:"Amazon Basics Notebook Arm Mount Tray (NEW / sealed)", price:15, photo:"images/amazon-notebook-arm-tray.jpg",
+ {id:"amazon-notebook-arm-tray", cat:"part", zh:"Amazon Basics 笔记本支架托盘 (全新未拆封)", en:"Amazon Basics Notebook Laptop Stand Arm Mount Tray, Black (NEW/sealed)", price:15, photo:"images/amazon-notebook-arm-tray.jpg",
   cond:"全新未拆封 · ⚠️外盒有咖啡/水渍 / new sealed — box has cosmetic stain",
   specs:["夹在显示器支架杆上放笔记本 / laptop tray for a monitor arm","Amazon Basics · 全新未拆封 / brand new, sealed","新品约 $22–27 / ~$22-27 new","小件可邮寄 / small, ships cheap"],
   note:"海德公园自取 或 邮寄(买家付运费) / local or ship · 可与显示器支架搭售",
