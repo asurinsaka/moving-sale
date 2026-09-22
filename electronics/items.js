@@ -16,7 +16,7 @@ window.ITEMS = [
   note:"主机+键鼠，可加显示器 / tower + KB/mouse (monitor available)",
   detail:"联想品牌机，i7 + RTX 3070，做工扎实，WiFi6。Lenovo-built RTX 3070 gaming desktop, solid build, WiFi 6.",
   ai:"🤖 <b>本地 AI / Local AI：</b>RTX 3070 (8G) + CUDA，可本地运行 Llama&nbsp;3 / Qwen2.5 <b>7–8B（量化）</b> 及 Stable Diffusion / SDXL。RTX 3070 — local 7–8B LLMs + SD/SDXL."},
- {id:"dell-g5-5000", cat:"desk", zh:"戴尔 Dell G5 5000 主机", en:"Dell G5 5000", price:410, photo:"images/g5.jpg",
+ {id:"dell-g5-5000", cat:"desk", zh:"戴尔 Dell G5 5000 主机", en:"Dell G5 5000", price:375, photo:"images/g5.jpg",
   cond:"二手良好 / used, good", specs:["i3-10100 · RX 5700 XT 8G","256G SSD + 1TB HDD · 16G","Windows 11"],
   note:"含 键鼠 + 音箱 (不含显示器) / incl. KB/mouse + speakers (NO monitor)",
   detail:"主机 + 键鼠 + 桌面音箱（不含显示器，自备即可；显卡有 HDMI/DP 输出）。256G SSD 系统盘启动快 + 1TB 机械硬盘存储，Windows 11，适合1080p游戏。Tower + keyboard/mouse + desktop speakers (NO monitor — bring your own; RX 5700 XT has HDMI/DP out). 256GB SSD boot (fast startup) + 1TB HDD storage, Windows 11 — great for 1080p gaming.",
