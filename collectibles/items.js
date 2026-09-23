@@ -121,7 +121,7 @@ window.ITEMS = [
   note:"海德公园自取 · 现金 · 18+ / local pickup, cash, adults 18+",
   detail:"SA Sports #647 Empire Fever Pro 十字弩(175磅拉力,240 FPS),迷彩,几乎没用过。含箭、箭袋、背带。⚠️原装瞄准镜和上弦绳暂时找不到了(已按此定价):可自行加装标准十字弩镜;上弦绳网上约$10-15(建议配,175磅徒手上弦费力)。适合靶场或狩猎。18+,海德公园自取,现金。SA Sports #647 Empire Fever Pro crossbow (175 lb, 240 FPS) in camo — barely used, like-new. Comes with arrows, quiver, and sling. NOTE: original scope AND rope cocking device are missing (priced accordingly). Mount any standard crossbow scope; a universal cocking rope is ~$10-15 (recommended — 175 lb is tough by hand). Adults 18+ only, local pickup in Hyde Park, cash.",
   },
- {id:"seagate-expansion-10tb", cat:"misc", zh:"希捷 Seagate Expansion 10TB 桌面外置硬盘", en:"Seagate Expansion Desktop 10TB External HDD (USB 3.0)", price:140, photo:"images/seagate-expansion-10tb.jpg",
+ {id:"seagate-expansion-10tb", cat:"misc", sold:true, zh:"希捷 Seagate Expansion 10TB 桌面外置硬盘", en:"Seagate Expansion Desktop 10TB External HDD (USB 3.0)", price:140, photo:"images/seagate-expansion-10tb.jpg",
   cond:"二手良好 · 功能正常 · 出售前抹除 / used, good — wiped before sale",
   specs:["10TB 桌面外置硬盘 · USB 3.0 / 10TB desktop external, USB 3.0","含电源适配器 + USB线 / incl. power adapter + USB cable","即插即用(Windows) / plug-and-play","⚠️硬盘缺货涨价,现价划算 / 2026 HDD shortage — good value"],
   note:"海德公园自取 · 现金/Zelle · 可邮寄 / local pickup, cash/Zelle, can ship",
