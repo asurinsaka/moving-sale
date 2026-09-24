@@ -95,7 +95,7 @@ window.ITEMS = [
   specs:["单管移动空调 · 底部滚轮 / single-hose portable AC, on casters","含窗户排风管 / window exhaust hose incl.","数字面板 / digital controls","⚠️机器较老(外观泛黄)· 制冷正常 / very old but cools"],
   note:"海德公园自取 · 现金 · 较重有轮子 / local pickup, cash, heavy but rolls",
   detail:"移动式空调,带窗户排风管,底部滚轮好推,数字面板。制冷正常,就是机器比较老(外观有些泛黄)。搬家 + 过了夏天所以便宜清仓。价格好商量,快出。海德公园自取,较重但有轮子。Portable air conditioner — works, comes with the window exhaust hose, rolls on casters, digital controls. Cools fine, just an older unit (some cosmetic yellowing). Priced low — moving + it's off-season. Make an offer, it needs to go. Local pickup in Hyde Park; heavy but on wheels."},
- {id:"wood-coffee-table", cat:"misc", zh:"实木风咖啡桌/茶几 (传统款, 中棕色, 车木腿)", en:"Wood Coffee Table (traditional, medium-brown, turned legs)", price:40, photo:"images/wood-coffee-table.jpg",
+ {id:"wood-coffee-table", cat:"misc", sold:true, zh:"实木风咖啡桌/茶几 (传统款, 中棕色, 车木腿)", en:"Wood Coffee Table (traditional, medium-brown, turned legs)", price:40, photo:"images/wood-coffee-table.jpg",
   cond:"二手 · 结实 · ⚠️桌面有轻微使用痕迹 / used, solid — light surface wear on top",
   specs:["长方形木质咖啡桌 · 中棕色 / rectangular wood, medium-brown","52 × 21 × 16 英寸 (L×W×H) / 52x21x16 in","框边双拼桌面 + 传统车木腿 / framed panel top, turned legs","⚠️桌面有轻微痕迹(仅外观) / light surface wear"],
   note:"海德公园自取 · 现金 / local pickup, cash",
