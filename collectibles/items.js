@@ -48,7 +48,7 @@ window.ITEMS = [
   specs:["12寸有源低音炮 / 12\" powered sub · 300W","Infinity Reference 系列 (Harman)","电平/相位/分频/自动开机可调 / level·phase·crossover·auto-on","Line/LFE 输入 · 含电源线"],
   note:"海德公园自取 · 现金/Zelle · 较重仅自取 / local pickup only (heavy), cash/Zelle",
   detail:"Infinity Reference SUB R12，12寸有源低音炮，300W。Harman 旗下 Infinity Reference 系列（真正的低音炮，不是影院套装里的廉价件），下潜深、量感足，看电影玩游戏听音乐都很带劲。背板可调电平/相位/分频点/自动开机。功能正常，无烟家庭，含电源线。2019 年购入约 $170，新品早已停产。较重，海德公园自取，可当面试听。Infinity Reference SUB R12 — 12\" powered subwoofer, 300W. Harman's Infinity Reference line (a real sub, not a budget HTIB piece) — deep, clean bass for movies, games, and music. Rear panel has adjustable level, phase, crossover, and auto-on. Tested and working, adult-owned non-smoking home, power cable included. ~$170 in 2019. Heavy — local pickup in Hyde Park; demo before you buy."},
- {id:"fluance-sx6-pair", cat:"misc", zh:"Fluance SX6 书架音箱 (一对, 实木贴皮)", en:"Fluance SX6 Bookshelf Speakers (pair, real wood veneer)", price:75, photo:"images/fluance-sx6-pair.jpg",
+ {id:"fluance-sx6-pair", cat:"misc", zh:"Fluance SX6 书架音箱 (一对, 实木贴皮)", en:"Fluance SX6 Bookshelf Speakers (pair, real wood veneer)", price:50, photo:"images/fluance-sx6-pair.jpg",
   cond:"二手良好 · 实木贴皮 / used, good — real wood veneer",
   specs:["Fluance SX6 书架音箱一对 / matched pair","8欧 · 89dB · 30-100W","实木贴皮 + 黑网罩 + 接线柱 / wood veneer, grilles, binding posts","立体声或影院环绕 / stereo or HT surrounds"],
   note:"海德公园自取 · 现金/Zelle · 可邮寄 / local pickup, cash/Zelle, can ship",
