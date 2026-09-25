@@ -90,7 +90,7 @@ window.ITEMS = [
   specs:["Southwire Romex SIMpull 12/2 NM-B · 黄色12号(20A)","2卷共约125英尺(25ft + ~80-100ft) / ~120ft total","室内住宅铜芯线 · 另送2个墙插 / +2 outlets","铜价高,比新的划算 / good value vs new"],
   note:"海德公园自取 · 现金 · 可整批或单卷 / local pickup, lot or single coil",
   detail:"Southwire Romex SIMpull 12/2 NM-B 室内铜芯电线,两卷共约125英尺(一卷约25英尺 + 一卷约80-100英尺),黄色12号线(20A),正品 SIMpull,装修剩料成色好。另送2个墙壁插座。适合 DIY/装修布线,铜价高比新的划算。整批$90可小刀,也可问单卷。海德公园自取。Southwire Romex SIMpull 12/2 NM-B copper building wire — two coils, ~125 ft total (a ~25 ft roll + a ~80-100 ft coil). Yellow 12-gauge / 20A indoor residential wire, genuine SIMpull, like-new leftover. Includes 2 outlets. Great for DIY/reno; copper's expensive so good value vs new. $90 for the lot (OBO) or ask about a single coil. Local pickup in Hyde Park."},
- {id:"portable-ac", cat:"misc", zh:"移动空调 (可用, 老款)", en:"Portable Air Conditioner (works, older unit)", price:50, photo:"images/portable-ac.jpg",
+ {id:"portable-ac", cat:"misc", zh:"美的 Midea 移动空调 (可用, 老款)", en:"Midea Portable Air Conditioner (works, older unit)", price:50, photo:"images/portable-ac.jpg",
   cond:"二手可用 · 老款 / used, works — older unit",
   specs:["单管移动空调 · 底部滚轮 / single-hose portable AC, on casters","含窗户排风管 / window exhaust hose incl.","数字面板 / digital controls","⚠️机器较老(外观泛黄)· 制冷正常 / very old but cools"],
   note:"海德公园自取 · 现金 · 较重有轮子 / local pickup, cash, heavy but rolls",
