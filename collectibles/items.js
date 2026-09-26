@@ -94,7 +94,7 @@ window.ITEMS = [
   cond:"二手良好 · 测试正常 · 新电池+新滤网 / tested working — NEW battery + filter",
   specs:["eufy RoboVac 30C · BoostIQ ~1500Pa 吸力","WiFi + App(eufyHome)+ Alexa/Google 语音","超薄(~2.85寸)· 安静 · 含充电座 + 边界条","✅ 全新电池 + 全新滤网 / NEW battery + NEW filter"],
   note:"海德公园自取 或 可邮寄(买家付运费) / local or ship",
-  detail:"eufy RoboVac 30C 扫地机器人:BoostIQ 约1500Pa 吸力,支持 WiFi + eufyHome App + Alexa/Google 语音控制,机身超薄安静,含充电座和边界条。<b>刚换了全新电池 + 全新滤网</b>,测试正常(蓝灯亮、正常开机运行)。已恢复出厂并解绑账号,即插即用。无烟家庭。海德公园自取,也可邮寄(买家付运费)。eufy RoboVac 30C robot vacuum — BoostIQ ~1500Pa suction, Wi-Fi + eufyHome app + Alexa/Google voice, slim and quiet, includes charging dock + boundary strips. <b>Just installed a NEW battery + NEW filter</b>, tested working. Factory reset + unlinked, plug-and-play. Local pickup in Hyde Park; can ship at buyer's cost."},
+  detail:"eufy RoboVac 30C 扫地机器人:BoostIQ 约1500Pa 吸力,支持 WiFi + eufyHome App + Alexa/Google 语音控制,机身超薄安静,含充电座、边界条和电源适配器(配件齐全)。<b>刚换了全新电池 + 全新滤网</b>,测试正常(蓝灯亮、正常开机运行)。已恢复出厂并解绑账号,即插即用。无烟家庭。海德公园自取,也可邮寄(买家付运费)。eufy RoboVac 30C robot vacuum — BoostIQ ~1500Pa suction, Wi-Fi + eufyHome app + Alexa/Google voice, slim and quiet, includes charging dock, boundary strips + power adapter (complete). <b>Just installed a NEW battery + NEW filter</b>, tested working. Factory reset + unlinked, plug-and-play. Local pickup in Hyde Park; can ship at buyer's cost."},
  {id:"portable-ac", cat:"misc", zh:"美的 Midea 移动空调 (可用, 老款)", en:"Midea Portable Air Conditioner (works, older unit)", price:50, photo:"images/portable-ac.jpg",
   cond:"二手可用 · 老款 / used, works — older unit",
   specs:["单管移动空调 · 底部滚轮 / single-hose portable AC, on casters","含窗户排风管 / window exhaust hose incl.","数字面板 / digital controls","⚠️机器较老(外观泛黄)· 制冷正常 / very old but cools"],
