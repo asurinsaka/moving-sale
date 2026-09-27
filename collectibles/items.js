@@ -33,7 +33,7 @@ window.ITEMS = [
   specs:["Xbox One 主机 + 无线手柄 + 线材 / console + controller + cables","2个全新未拆游戏: Scarlet Nexus + TopSpin 2K25 / 2 sealed games","已恢复出厂 / factory reset","即插即用 / plug-and-play"],
   note:"海德公园自取 · 现金/Zelle · 可邮寄 / local pickup, cash/Zelle, can ship",
   detail:"Xbox One 主机套装：主机 + 一个无线手柄 + 线材齐全，另含两个全新未拆封游戏——Scarlet Nexus（绯红结系，动作RPG）+ TopSpin 2K25（网球，2024）。主机功能正常，已恢复出厂设置，即插即用。无烟家庭。海德公园自取，可邮寄（买家付运费）。Xbox One console bundle — console + one wireless controller + all cables, plus TWO brand-new SEALED games: Scarlet Nexus (anime action-RPG) and TopSpin 2K25 (tennis, 2024). Console tested and working, factory reset, plug-and-play. Local pickup in Hyde Park; can ship."},
- {id:"stresney-console-piano", cat:"misc", zh:"Stresney & Sons 立式钢琴 (实木琴身)", en:"Stresney & Sons Console Upright Piano (wood cabinet)", price:300, photo:"images/stresney-console-piano.jpg",
+ {id:"stresney-console-piano", cat:"misc", zh:"Stresney & Sons 立式钢琴 (实木琴身)", en:"Stresney & Sons Console Upright Piano (wood cabinet)", price:140, photo:"images/stresney-console-piano.jpg",
   cond:"二手 · 实木琴身 / used — wood cabinet",
   specs:["立式/console 钢琴 · 全键盘 + 三踏板","实木琴身 + 装饰谱架 + 铜配件","Stresney & Sons — 芝加哥本地钢琴厂 (~1980)","附送调音工具 / tuning tools incl. · 可能需调音"],
   note:"带滚轮·尾板卡车可直接推上车 / on casters — roll onto a liftgate truck · local pickup · cash/Zelle",
